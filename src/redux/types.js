@@ -1,0 +1,7 @@
+// 弹框
+export const SHOWTOAST = 'SHOWTOAST'
+export const SHOWALERT = 'SHOWALERT'
+export const SHOWTWOBTNDIALOG = 'SHOWTWOBTNDIALOG'
+
+// 更新遮罩
+export const UPDATELOADING = "UPDATELOADING"

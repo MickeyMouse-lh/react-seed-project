@@ -1,0 +1,8 @@
+node_modules
+.tags
+.tags1
+README.md
+.gitnorge
+.DS_Store
+.eslintignore
+.eslintrc.js
